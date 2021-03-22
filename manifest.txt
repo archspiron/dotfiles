@@ -1,0 +1,27 @@
+[STANDARD REPOS]
+rofi
+alacritty
+i3
+pcmanfm
+ranger
+htop
+xorg-fonts-misc
+firefox
+neovim
+xorg-xinitrc
+xorg
+pulseaudio
+alsamixer
+networkmanager
+network-manager-applet
+fish
+nitrogen
+picom
+git
+
+
+[AUR]
+siji-git
+ttf-unifont
+polybar
+pfetch
