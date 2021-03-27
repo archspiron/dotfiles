@@ -28,3 +28,5 @@ siji-git
 ttf-unifont
 polybar
 pfetch
+
+https://github.com/ckb-next/ckb-next
