@@ -18,6 +18,9 @@ fish
 nitrogen
 picom
 git
+fuse
+ntfs-3
+lynx
 
 
 [AUR]
